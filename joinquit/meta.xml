@@ -1,0 +1,5 @@
+<meta>
+     <info author="Lich" description="Messages in the chat when players join" type="script" version="1.0.0" />  
+     <script src="script.lua" type="server"/>
+     <script src="scriptl.lua" type="client"/>
+</meta>
